@@ -9,6 +9,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+include:
+  - _figures
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 header_pages:
   - blog.md
 
@@ -17,3 +24,4 @@ permalink: /blog/:year/:month/:day/:title/
 exclude:
   - README.md
   - Gemfile.lock
+
