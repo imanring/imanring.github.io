@@ -1,0 +1,19 @@
+title: "Isaac Manring"
+description: >-
+  A personal website for sharing ideas, projects, and updates.
+url: "https://imanring.github.io"
+baseurl: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - blog.md
+
+permalink: /blog/:year/:month/:day/:title/
+
+exclude:
+  - README.md
+  - Gemfile.lock
