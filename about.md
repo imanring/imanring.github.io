@@ -7,7 +7,7 @@ permalink: /about/
 <div class="page-card">
   <h2>About me</h2>
 
-  <p>I’m a PhD student at the University of Florida studying machine learning, with a focus on nonlinear Blind Source Separation identifiability, and representation learning.</p>
+  <p>I’m a PhD student advised by <a href="https://cise.ufl.edu/~kejun/">Kejun Huang</a> at the University of Florida studying machine learning, with a focus on nonlinear Blind Source Separation identifiability, and representation learning.</p>
 
   <p>My work centers on understanding when latent structure can be recovered from data and how that insight can support more reliable and interpretable methods in modern ML.</p>
 
