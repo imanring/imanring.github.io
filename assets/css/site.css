@@ -28,6 +28,11 @@ body {
   z-index: 20;
 }
 
+.site-footer .site-title,
+.site-footer .footer-heading {
+  display: none;
+}
+
 .site-header .wrapper {
   max-width: 1100px;
   padding-top: 0.9rem;
@@ -43,6 +48,11 @@ body {
 .site-header .site-title {
   font-weight: 700;
   letter-spacing: -0.03em;
+}
+
+.nav-trigger,
+.menu-icon {
+  display: none !important;
 }
 
 .site-nav {

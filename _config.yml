@@ -1,6 +1,6 @@
 title: "Isaac Manring"
 description: >-
-  A personal website for sharing ideas, projects, and updates.
+  A personal website for sharing research and technical blog posts.
 url: "https://imanring.github.io"
 baseurl: ""
 
@@ -17,7 +17,9 @@ kramdown:
   math_engine: mathjax
 
 header_pages:
+  - index.md
   - blog.md
+  - about.md
 
 permalink: /blog/:year/:month/:day/:title/
 
