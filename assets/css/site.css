@@ -28,9 +28,15 @@ body {
   z-index: 20;
 }
 
+.site-footer,
 .site-footer .site-title,
-.site-footer .footer-heading {
-  display: none;
+.site-footer .footer-heading,
+.site-footer .footer-col-wrapper,
+.page-heading,
+.post-title,
+.page-title,
+.post-header h1 {
+  display: none !important;
 }
 
 .site-header .wrapper {
