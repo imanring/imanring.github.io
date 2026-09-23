@@ -16,21 +16,17 @@ title: Home
 
   <div class="home-hero__panel">
     <img src="{{ '/assets/head_shot.jpg' | relative_url }}" alt="Isaac Manring" class="profile-photo" />
-    <p class="panel-label">Research focus</p>
+    <p class="panel-label">Research interests</p>
     <ul>
       <li>Nonlinear blind source separation</li>
-      <li>Identifiability and theory</li>
-      <li>Generative modeling</li>
-      <li>Reliable machine learning</li>
+      <li>Representation learning</li>
+      <li>Spatial statistics</li>
+      <li>Accoustic source localization</li>
     </ul>
   </div>
 </div>
 
 <div class="home-grid">
-  <div class="info-card">
-    <h2>Research</h2>
-    <p>I work at the intersection of theory and practice, with a focus on understanding when latent structure can be recovered from data.</p>
-  </div>
 
   <div class="info-card">
     <h2>Writing</h2>
