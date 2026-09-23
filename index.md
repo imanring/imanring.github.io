@@ -15,6 +15,7 @@ title: Home
   </div>
 
   <div class="home-hero__panel">
+    <img src="{{ '/assets/head_shot.jpg' | relative_url }}" alt="Isaac Manring" class="profile-photo" />
     <p class="panel-label">Research focus</p>
     <ul>
       <li>Nonlinear blind source separation</li>
