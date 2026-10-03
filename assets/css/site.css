@@ -216,6 +216,14 @@ body {
   color: var(--accent-strong);
 }
 
+@media (min-width: 1200px) {
+  .page-content:has(.post-content),
+  .page-content:has(.post-content) > .wrapper,
+  .post-content {
+    max-width: none;
+  }
+}
+
 @media (max-width: 800px) {
   .home-hero,
   .home-grid {
