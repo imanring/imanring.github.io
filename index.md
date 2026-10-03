@@ -19,7 +19,7 @@ title: Home
     <p class="panel-label">Research interests</p>
     <ul>
       <li>Nonlinear blind source separation</li>
-      <li>Representation learning</li>
+      <li>Causal Representation learning</li>
       <li>Spatial statistics</li>
       <li>Accoustic source localization</li>
     </ul>
