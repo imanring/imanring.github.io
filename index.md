@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
@@ -27,7 +27,6 @@ title: Home
 </div>
 
 <div class="home-grid">
-
   <div class="info-card">
     <h2>Writing</h2>
     <p>My blog explores technical ideas in a more accessible way, especially around machine learning fundamentals and generative models.</p>

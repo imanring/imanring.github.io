@@ -22,6 +22,7 @@ header_pages:
   - blog.md
   - cv.md
 
+permalink: /blog/:year/:month/:day/:title/
 
 exclude:
   - README.md
