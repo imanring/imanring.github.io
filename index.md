@@ -7,10 +7,10 @@ title: Home
   <div class="home-hero__content">
     <p class="eyebrow">PhD student • statistical machine learning</p>
     <h1>Isaac Manring</h1>
-    <p class="lead">I study statistical machine learning with a focus on nonlinear blind source separation and identifiability. I believe that a principled theoretical foundation is essential for reliable progress in modern ML.</p>
+    <p class="lead">I’m a PhD student advised by <a href="https://cise.ufl.edu/~kejun/">Kejun Huang</a> at the University of Florida studying statistical machine learning with a focus on causal representation learning and identifiability. Most of machine learning is focused on fitting the data distribution for prediction and generation. My goal is to understand the causes that generated the data with implications for scientific discovery. Modern machine learning is not fully equipped theoretically to discover causes while classic machine learning does not have the requisite predictive power. I believe that a principled theoretical foundation is essential for reliable progress in modern ML.</p>
     <div class="button-row">
       <a class="button primary" href="/blog/">Read the blog</a>
-      <a class="button secondary" href="/about/">About me</a>
+      <a class="button secondary" href="/IM_CV.pdf">CV</a>
     </div>
   </div>
 
