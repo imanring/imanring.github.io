@@ -19,7 +19,7 @@ kramdown:
 header_pages:
   - index.md
   - blog.md
-  - about.md
+  - cv.md
 
 permalink: /blog/:year/:month/:day/:title/
 
